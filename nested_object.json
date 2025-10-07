@@ -1,0 +1,235 @@
+{
+  "id": 1853,
+  "name": "Anna Miller",
+  "email": "christina00@yahoo.com",
+  "age": 57,
+  "username": "coopergabrielle",
+  "is_active": false,
+  "join_date": "2024-03-31",
+  "last_login": "2025-09-05T23:31:39",
+  "role": "developer",
+  "department": "Support",
+  "phone": "912-745-3828x07125",
+  "website": "http://www.adams.info/",
+  "bio": "Artist air store manage west force manage speak end audience treatment.",
+  "skills": [
+    "Node.js",
+    "SQL",
+    "Docker",
+    "Flask",
+    "Kubernetes"
+  ],
+  "address": {
+    "street": "9145 Douglas Flat Apt. 163",
+    "city": "Lake Robertbury",
+    "state": "Connecticut",
+    "country": "Algeria",
+    "postal_code": "96798"
+  },
+  "company": {
+    "name": "Bowman-Smith",
+    "industry": "Healthcare",
+    "employees": 495,
+    "founded": 1981,
+    "headquarters": {
+      "city": "Ethanton",
+      "country": "Liechtenstein"
+    }
+  },
+  "social": {
+    "twitter": "@dwayne90",
+    "linkedin": "linkedin.com/in/veronicacastillo",
+    "github": "github.com/batesleon",
+    "portfolio": "http://weber.com/"
+  },
+  "preferences": {
+    "theme": "dark",
+    "language": "German",
+    "notifications": {
+      "email": false,
+      "sms": true,
+      "push": true
+    }
+  },
+  "employment_status": "Intern",
+  "salary": 109394,
+  "performance_rating": 3.55,
+  "time_zone": "Africa/Accra",
+  "ip_address": "64.45.1.126",
+  "mac_address": "e3:c2:22:a5:52:98",
+  "device": "Tablet",
+  "security_level": "High",
+  "last_password_change": "2025-02-26",
+  "projects": [
+    {
+      "id": 1,
+      "name": "Enhance Sticky Vortals",
+      "status": "completed",
+      "start_date": "2023-12-01",
+      "end_date": "",
+      "technologies": [
+        "AWS",
+        "FastAPI",
+        "Flask",
+        "TensorFlow"
+      ],
+      "team_size": 5,
+      "budget": 47335,
+      "progress": 38,
+      "client": "Pineda LLC"
+    },
+    {
+      "id": 2,
+      "name": "Embrace Ubiquitous Info-Mediaries",
+      "status": "active",
+      "start_date": "2024-03-23",
+      "end_date": "",
+      "technologies": [
+        "Next.js",
+        "FastAPI",
+        "TensorFlow",
+        "Flask"
+      ],
+      "team_size": 9,
+      "budget": 26563,
+      "progress": 18,
+      "client": "Rodriguez-Jordan"
+    },
+    {
+      "id": 3,
+      "name": "Expedite B2C Content",
+      "status": "on hold",
+      "start_date": "2023-10-13",
+      "end_date": "",
+      "technologies": [
+        "React",
+        "Flask",
+        "AWS",
+        "Python"
+      ],
+      "team_size": 8,
+      "budget": 21916,
+      "progress": 21,
+      "client": "Moore-Klein"
+    },
+    {
+      "id": 4,
+      "name": "Seize 24/7 Infrastructures",
+      "status": "on hold",
+      "start_date": "2024-07-24",
+      "end_date": "2025-05-22",
+      "technologies": [
+        "PostgreSQL",
+        "React",
+        "Docker",
+        "Redis"
+      ],
+      "team_size": 8,
+      "budget": 32175,
+      "progress": 29,
+      "client": "Johnson Group"
+    },
+    {
+      "id": 5,
+      "name": "Strategize Clicks-And-Mortar Methodologies",
+      "status": "on hold",
+      "start_date": "2024-09-17",
+      "end_date": "2025-03-01",
+      "technologies": [
+        "PostgreSQL",
+        "Docker",
+        "Python",
+        "Next.js"
+      ],
+      "team_size": 12,
+      "budget": 78979,
+      "progress": 27,
+      "client": "Smith PLC"
+    },
+    {
+      "id": 6,
+      "name": "Engage Global Synergies",
+      "status": "active",
+      "start_date": "2024-02-19",
+      "end_date": "2024-12-11",
+      "technologies": [
+        "Next.js",
+        "PostgreSQL",
+        "Flask",
+        "FastAPI"
+      ],
+      "team_size": 7,
+      "budget": 35951,
+      "progress": 86,
+      "client": "Mendoza, Hammond and Fields"
+    },
+    {
+      "id": 7,
+      "name": "Facilitate Rich Partnerships",
+      "status": "active",
+      "start_date": "2024-05-02",
+      "end_date": "2025-03-01",
+      "technologies": [
+        "Redis",
+        "TensorFlow",
+        "Flask",
+        "FastAPI"
+      ],
+      "team_size": 5,
+      "budget": 64757,
+      "progress": 18,
+      "client": "Owen-Smith"
+    },
+    {
+      "id": 8,
+      "name": "Whiteboard Magnetic Eyeballs",
+      "status": "completed",
+      "start_date": "2024-09-28",
+      "end_date": "",
+      "technologies": [
+        "Docker",
+        "Next.js",
+        "FastAPI",
+        "React"
+      ],
+      "team_size": 6,
+      "budget": 33247,
+      "progress": 56,
+      "client": "Jacobson Inc"
+    },
+    {
+      "id": 9,
+      "name": "Engineer Efficient Solutions",
+      "status": "on hold",
+      "start_date": "2024-09-11",
+      "end_date": "",
+      "technologies": [
+        "FastAPI",
+        "Next.js",
+        "Flask",
+        "Python"
+      ],
+      "team_size": 6,
+      "budget": 86182,
+      "progress": 78,
+      "client": "Moreno Ltd"
+    },
+    {
+      "id": 10,
+      "name": "Transform Killer Applications",
+      "status": "active",
+      "start_date": "2024-07-24",
+      "end_date": "2025-06-03",
+      "technologies": [
+        "Flask",
+        "PostgreSQL",
+        "Python",
+        "FastAPI"
+      ],
+      "team_size": 6,
+      "budget": 66077,
+      "progress": 89,
+      "client": "Huber, Mcintosh and Mercado"
+    }
+  ]
+}
